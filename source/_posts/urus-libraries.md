@@ -8,7 +8,7 @@ level: 1
 summary: >
             Bagaimana menguruskan libraries/dependencies secara sistematik dalam projek
             programming.
-category: programming
+category: Programming
 ---
 
 Setiap projek *programming* sama ada besar atau kecil biasanya tidak hanya mengandungi kod-kod

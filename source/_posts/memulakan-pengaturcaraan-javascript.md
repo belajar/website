@@ -7,8 +7,7 @@ permalink: memulakan-pengaturcaraan-dalam-javascript.html
 level: 1
 summary: >
             Panduan ringkas bagaimana untuk memulakan pengaturcaraan dalam bahasa JavaScript
-categories:
-    - javascript
+category: JavaScript
 ---
 
 Memulakan pengaturcaraan dalam JavaScript agak mudah kerana boleh dikatakan semua pelayar web (browser) utama

@@ -6,7 +6,7 @@ date: 2015-02-05
 level: 2
 summary: >
             Penerangan ringkas tentang penggunaan Composer dalam aplikasi PHP.
-category: php
+category: PHP
 permalink: pengenalan-kepada-composer.html
 ---
 

@@ -7,7 +7,7 @@ permalink: 4-cara-define-function.html
 level: 1
 summary: >
             4 cara atau pattern yang biasa digunakan untuk define function dalam JavaScript.
-category: javascript
+category: JavaScript
 ---
 
 Semua bahasa pengaturcaraan mempunyai komponen yang dinamakan *function* yang fungsi utamanya
