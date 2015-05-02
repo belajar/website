@@ -80,3 +80,5 @@ widgets:
 menu:
     Home: /
     Categories:
+
+disqus_shortname: belajarprogramming
