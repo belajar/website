@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Belajar IT
+title: Belajar Programming
 subtitle:
 description:
 author: Kamal Mustafa
@@ -70,7 +70,9 @@ theme: hueman
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:belajar/belajar.github.io.git
+  branch: master
 
 widgets:
     - category
