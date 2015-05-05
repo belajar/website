@@ -84,3 +84,7 @@ menu:
     Categories:
 
 disqus_shortname: belajarprogramming
+
+marked:
+    gfm: true
+    breaks: false
