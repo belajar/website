@@ -5,10 +5,10 @@
 # Site
 title: Belajar Programming
 subtitle:
-description:
+description: Portal maklumat untuk sesiapa yang ingin belajar berkaitan pengaturcaraan komputer (programming).
 author: Kamal Mustafa
 language: en
-timezone:
+timezone: Asia/Kuala_Lumpur
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
