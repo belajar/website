@@ -9,6 +9,7 @@ description: Portal maklumat untuk sesiapa yang ingin belajar berkaitan pengatur
 author: Kamal Mustafa
 language: en
 timezone: Asia/Kuala_Lumpur
+og_image: https://i.imgur.com/IajYuZI.png
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
