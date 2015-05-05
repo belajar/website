@@ -89,3 +89,12 @@ disqus_shortname: belajarprogramming
 marked:
     gfm: true
     breaks: false
+
+social_links:
+    facebook: https://www.facebook.com/groups/belajarprogramming/
+    rss: atom.xml
+
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20
