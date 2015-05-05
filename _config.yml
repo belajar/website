@@ -82,6 +82,7 @@ widgets:
 menu:
     Home: /
     Categories:
+    Penulis: /penulis
 
 disqus_shortname: belajarprogramming
 
