@@ -49,6 +49,7 @@ category_map:
     JavaScript: javascript
     PHP: php
     Programming: programming
+    Python: python
 tag_map:
 
 # Date / Time format
