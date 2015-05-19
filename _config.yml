@@ -50,6 +50,7 @@ category_map:
     PHP: php
     Programming: programming
     Python: python
+    Devops: devops
 tag_map:
 
 # Date / Time format
