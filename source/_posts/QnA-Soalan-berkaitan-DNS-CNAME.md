@@ -84,3 +84,5 @@ support.page.com CNAME bigsite.page.com
 blog.page.com CNAME test.test.com
 
 Nampak tak kaitan antara A record dan CNAME ?
+
+Diskusi asal - https://www.facebook.com/paanblogger/posts/10201607041688516?comment_id=84600092
