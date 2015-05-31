@@ -4,7 +4,7 @@ tags:
     - ssl
     - php
     - mysql
-category: DevOps
+category: Devops
 permalink: connect-mysql-melalui-ssl-tls.html
 summary: >
             Panduan ringkas untuk sambungan ke MySQL melalui SSL/TLS.
